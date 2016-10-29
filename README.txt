@@ -19,5 +19,5 @@
 
  - Run the file "mosaic.m", with two of your desired images, on MATLAB to stitch 2 images
  
- - For stitching 'n' images run the file "stitch.m" with your desired images as an image array
+ - For stitching 'n' images run the file "stitchn.m" with your desired images as an image array
 
